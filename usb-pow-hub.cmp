@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-08 BZR 5647)-product   date = sáb 16 may 2015 15:38:05 CEST
+
+BeginCmp
+TimeStamp = /555745E2;
+Reference = C1;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /55574747;
+Reference = C2;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /5557477B;
+Reference = C3;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /555747AD;
+Reference = C4;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /55571897;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556FE7F;
+Reference = CON2;
+ValeurCmp = USB_A_F;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556FF7A;
+Reference = CON3;
+ValeurCmp = USB_A_F;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556FFB4;
+Reference = CON4;
+ValeurCmp = USB_A_F;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556FFF9;
+Reference = CON5;
+ValeurCmp = USB_A_F;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /55570049;
+Reference = CON6;
+ValeurCmp = USB_A_F;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5557252B;
+Reference = CON7;
+ValeurCmp = DC_CON;
+IdModule  = Connect:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55572494;
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+EndListe
